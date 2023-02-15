@@ -1,4 +1,4 @@
-package com.ll.resttemplate.restTemplate;
+package com.ll.resttemplate.objects;
 
 import lombok.Getter;
 import lombok.Setter;
